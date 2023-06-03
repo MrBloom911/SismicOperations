@@ -15,7 +15,9 @@ sklearn clusters con el modelo dbscan
 sklearn metrics pairwise_distances
 scipy spatial discance
 sklearn sillouete score
-
+Sympy (se podría resumir en lambdify, symbols y pues los modulos de spympify son core de sympy)
+Numpy (Todo no es un paquete muy pesado)
+scipy (se trabajo más que nada el paquete optimize para minimizar la función de máxima verosimilitud, y el paquete integrate para el calculo numerico de la integral)
 
 
 bibliografia 
