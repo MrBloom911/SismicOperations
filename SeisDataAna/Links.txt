@@ -1,0 +1,2 @@
+Link de DataSet
+https://github.com/seisbench/seisbench/blob/main/examples/01a_dataset_basics.ipynb
